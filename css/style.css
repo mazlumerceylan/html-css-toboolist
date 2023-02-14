@@ -2,6 +2,18 @@ header{
   background-color: white;
 }
 
+body{
+  background-color: aquamarine;
+}
+
+main{
+  width: 900px;
+  height: 900px;
+  background-color: white;
+  margin: 30px auto;
+  border-radius: 15px;
+
+}
 
 
 header img{
@@ -9,12 +21,88 @@ header img{
   vertical-align: middle;
 }
 
-body{
-  background-color: aquamarine;
-}
-
 header span{
   font-size: 40px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+
+.add_task{
+  padding: 2px;
+  background-color: blue;
+  border-radius: 5px;
+  border-color: white;
+  margin-left: 70px;
+  margin-top: 35px;
+  font-size: 20px;
+  
+}
+
+.add_section{
+  padding: 2px;
+  border-radius: 5px;
+  background-color: white;
+  color: blue;
+  border-color: blue;
+  font-size: 20px;
+}
+
+hr{
+  margin-top: 15px;
+  background-color: blue; height: 1px; border: 0;
+}
+
+.section2{
+  font-size: 25px;
+  margin-top: 45px;
+  margin-left: 70px;
+}
+  
+.editorial{
+  background-color: yellow;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+.titolo{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+
+.Q1{
+  background-color: brown;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+.Recruiting{
+  background-color: purple;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+.mobile{
+  background-color: red;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+.website{
+  background-color: rgb(14, 14, 14);
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+.sales{
+  background-color: pink;
+  border-radius: 20px;
+  font-size: 20px;
+  color: white;
+}
+
 
